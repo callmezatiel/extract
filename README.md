@@ -12,6 +12,7 @@
 * Add this code in your bash / zsh profile 
 	
 nano .bashrc
+
 nano .zshrc
 
 
