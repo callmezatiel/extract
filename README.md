@@ -1,5 +1,15 @@
 ### Extract your files⚠️
 
+| Distro | Description |
+| ------ | ------ |
+| Debian / Ubuntu |  sudo apt update && sudo apt install unrar p7zip-full p7zip-rar unzip gzip |
+| Fedora |  sudo dnf install p7zip p7zip-plugins unrar unzip gzip |	
+| Arch |  yay -S 7-zip && sudo pacman -S unrar unzip gzip |
+
+	
+nano .bashrc
+
+
 ```
 # add this to easily extract compressed files, use extract <filename> to extract 
 
@@ -25,3 +35,6 @@ extract () {
     fi
  }
 ```
+
+Try:
+extract folders.tar.gz
