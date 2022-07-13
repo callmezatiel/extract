@@ -44,3 +44,15 @@ extract () {
 
 Try:
 extract folders.tar.gz
+
+
+
+### Visita el tutorial para mas detalles
+[![Alt text](https://i.postimg.cc/pT6YVfxf/extract.png)](https://youtu.be/0v2T1pQnDAI)
+
+
+### Issues will be fixed asap. Pull Request Welcomed
+https://github.com/callmezatiel/extract/issues
+
+### Buy me a coffee
+<a href="https://www.paypal.me/zatiel"><img src="https://img.shields.io/badge/don-paypal-blue"></a> <a href="https://www.patreon.com/zatiel"><img src="https://img.shields.io/badge/don-patreon-ff69b4">
