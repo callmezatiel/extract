@@ -6,8 +6,13 @@
 | Fedora |  sudo dnf install p7zip p7zip-plugins unrar unzip gzip |	
 | Arch |  yay -S 7-zip && sudo pacman -S unrar unzip gzip |
 
+# Install
+
+* Open The Terminal .
+* Add this code in your bash / zsh profile 
 	
 nano .bashrc
+nano .zshrc
 
 
 ```
